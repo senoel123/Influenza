@@ -18,5 +18,4 @@ the project will plan for the upcoming influenza season.
 ---
 **Motivation**
 
-The United States has an influenza season where more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop serious
-complications and end up in the hospital. Hospitals and clinics need additional staff to treat these extra patients adequately. The medical staffing agency provides this temporary staff.
+The United States has an influenza season where more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to treat these extra patients adequately. The medical staffing agency provides this temporary staff.
