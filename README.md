@@ -24,4 +24,5 @@ The United States has an influenza season where more people than usual suffer fr
 complications and end up in the hospital. Hospitals and clinics need additional staff to treat these extra patients adequately. The medical staffing agency provides this
 temporary staff.
 
+<img src= 'https://github.com/senoel123/Influenza/blob/main/influenza.jpg' width="1000" align="right"  alt="hi" class="inline"/>
 ---
